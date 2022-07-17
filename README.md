@@ -1,0 +1,2 @@
+# TCC2
+Repositório para o Trabalho de Conclusão do Curso de Engenharia de Computação onde criei um modelo de predição de doadores de sangue. A primeira parte do trabalho criei e testei modelos e criei um serviço WEB usando a ferramenta Azure Machine Learning Studio e a segunda parte criei modelos usando a biblioteca Scikit-Learn e o ecossistema Python. por fim criei uma API Flask para testar o modelo usando o software Insomnia.
